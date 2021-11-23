@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="document" readerVersion="6.0" featureSet="257" product="16.4(54)" ?>
+<Document xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="16.2">
+	<MojikumiTable Self="MojikumiTable/TategakiCP" Name="居中標點直書" BasedOnMojikumiSet="Nothing">
+		<Properties>
+			<OverrideMojikumiAkiList>
+				<OverrideMojikumiAkiType TargetMojikumiClass="1" SideMojikumiClass="12" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="1" SideMojikumiClass="11" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="1" SideMojikumiClass="24" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="26" SideMojikumiClass="12" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="26" SideMojikumiClass="11" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="26" SideMojikumiClass="24" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="27" SideMojikumiClass="12" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="27" SideMojikumiClass="11" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="27" SideMojikumiClass="24" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="1" SideMojikumiClass="33" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="26" SideMojikumiClass="33" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="27" SideMojikumiClass="33" SideIsAfterTarget="false" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="2" SideMojikumiClass="12" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="2" SideMojikumiClass="11" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="2" SideMojikumiClass="24" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="28" SideMojikumiClass="12" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="28" SideMojikumiClass="11" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="28" SideMojikumiClass="24" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="29" SideMojikumiClass="12" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="29" SideMojikumiClass="11" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="29" SideMojikumiClass="24" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="2" SideMojikumiClass="33" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="28" SideMojikumiClass="33" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="29" SideMojikumiClass="33" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="2" SideMojikumiClass="1" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="2" SideMojikumiClass="26" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="2" SideMojikumiClass="27" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="28" SideMojikumiClass="1" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="28" SideMojikumiClass="26" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="28" SideMojikumiClass="27" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="29" SideMojikumiClass="1" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="29" SideMojikumiClass="26" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+				<OverrideMojikumiAkiType TargetMojikumiClass="29" SideMojikumiClass="27" SideIsAfterTarget="true" Minimum="0.5" Desired="0.5" Maximum="0.5" CompressionPriority="0" AkiDoesNotFloat="false" />
+			</OverrideMojikumiAkiList>
+		</Properties>
+	</MojikumiTable>
+</Document>
