@@ -6,7 +6,7 @@
 
 ## 設定集
 
-- 居中標點直書（[`TategakiCP.idml`](https://github.com/toto-minai/MojikumiTable/raw/main/TategakiCP.idml)）
+- 居中標點直書（[`TategakiCP.idml`](https://github.com/toto-minai/MojikumiTable/raw/main/TategakiCP.idml)），適用於 `vpal` 開啟的字體。
 
 ## 說明
 
